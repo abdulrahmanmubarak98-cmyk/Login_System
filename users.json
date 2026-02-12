@@ -1,0 +1,29 @@
+{
+    "mk": {
+        "password": "$2b$12$O8f8SrSgD3m74tVv.R7OpONqaTNWU/DmnA/cWNgggNKO3GBTrVRf."
+    },
+    "musty": {
+        "password": "$2b$12$aUZYF/qFvGClov/QNr7z.O.kwOMBkgKQu3IxeeKuTCJwitvdg48Li"
+    },
+    "abdulbasit": {
+        "password": "$2b$12$dVh/mV3Jp12EHhKLFrwT9uJ1N.tWiX.dZ3jE5YNTVMrGmbFrbctjy"
+    },
+    "mubarak": {
+        "password": "$2b$12$rGfcGlnhwd4felUET14lE.FpTHowwCloQY5L6oDdcL09WwDpeEsem"
+    },
+    "fatima": {
+        "password": "$2b$12$5xDO3R8hkZ7hkEY3SEaM9esbiPppJhcIxX5OvflEZLcsP2FuHNPeC"
+    },
+    "grace": {
+        "password": "$2b$12$B5Mks2.jRyVgqqyoUuJG5eIuLVZQUa1EmWnEh5vrfR30vuGhoMVQy"
+    },
+    "yusuf": {
+        "password": "$2b$12$mm0Df3j/cjfQfNVX35qFn.CWBRe.CCXRq80l2gDrocboFiKx/f.1m"
+    },
+    "umar": {
+        "password": "$2b$12$z4fSacNKiK0CzIgk5EbfFOTLX0RZEchVtjHIBENJw15HXY/1kLH6u"
+    },
+    "john": {
+        "password": "$2b$12$ifyUSQQ9TsaAzSO214MkbOKR4.maXwSIPo3R0jyOzUog8EFRJRQ6O"
+    }
+}
